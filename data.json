@@ -1,0 +1,52 @@
+{
+  "phone": "+355692020512",
+  "website": "https://www.siguriinteligjence.com",
+  "instagram": "",
+  "location": "",
+  "pages": [
+    {
+      "pageId": 1,
+      "text": "",
+      "image": "",
+      "buttonShow": true,
+      "buttonText": "",
+      "buttonLink": ""
+    },
+    {
+      "pageId": 2,
+      "text": "",
+      "image": "",
+      "buttonShow": true,
+      "buttonText": "",
+      "buttonLink": ""
+    },
+    {
+      "pageId": 3,
+      "text": "",
+      "image": "",
+      "buttonShow": true,
+      "buttonText": "",
+      "buttonLink": ""
+    }
+  ],
+  "buttons": [
+    {
+      "buttonId": 1,
+      "buttonText": "",
+      "buttonImage": "",
+      "buttonLink": ""
+    },
+    {
+      "buttonId": 2,
+      "buttonText": "",
+      "buttonImage": "",
+      "buttonLink": ""
+    },
+    {
+      "buttonId": 3,
+      "buttonText": "",
+      "buttonImage": "",
+      "buttonLink": ""
+    }
+  ]
+}
