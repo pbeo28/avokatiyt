@@ -3,6 +3,58 @@
   "website": "https://www.siguriinteligjence.com",
   "instagram": "https://www.instagram.com/instagram/",
   "location": "https://g.co/kgs/j7j1Cmf",
+  "slides":[
+    {
+      "slideId":1,
+      "text":"text1",
+      "title":"title1",
+      "image":"https://picsum.photos/1200/1800?random=1",
+      "buttonText":"button1",
+      "slidePage":{   
+        "isService":true,
+        "servicePages":[1,2,3],
+        "title":"slide title1",
+        "body":"slideBody1",
+        "buttonShow":false,
+        "buttonText":"",
+        "buttonLink":""
+      }
+    },
+    {
+      "slideId":2,
+      "text":"text2",
+      "title":"title2",
+      "image":"https://picsum.photos/1200/1800?random=1",
+      "buttonText":"button2",
+      "slidePage":{   
+        "isService":true,
+        "servicePages":[2,3],
+        "title":"slide title1",
+        "body":"slideBody1",
+        "buttonShow":false,
+        "buttonText":"",
+        "buttonLink":""
+      }
+    },
+    
+    {
+      "slideId":3,
+      "text":"text1",
+      "title":"title1",
+      "image":"https://picsum.photos/1200/1800?random=1",
+      "buttonText":"button1",
+      "slidePage":{   
+        "isService":false,
+        "servicePages":[],
+        "title":"slide title1",
+        "body":"slideBody1",
+        "buttonShow":true,
+        "buttonText":"button",
+        "buttonLink":"link"
+      }
+    }
+    
+  ],
   "pages": [
     {
       "pageId": 1,
