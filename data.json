@@ -6,10 +6,10 @@
   "slides":[
     {
       "slideId":1,
-      "text":"text1",
-      "title":"title1",
-      "image":"https://picsum.photos/1200/1800?random=1",
-      "buttonText":"button1",
+      "text":"+355 69 20 20 512 \n www.siguriinteligjence.com",
+      "title":"QENDER E FORMIMIT PROFESIONAL",
+      "image":"https://raw.githubusercontent.com/pbeo28/avokatiyt/main/2.png",
+      "buttonText":"Hap seksionin",
       "slidePage":{   
         "isService":true,
         "servicePages":[1,2,3],
@@ -22,13 +22,29 @@
     },
     {
       "slideId":2,
-      "text":"text2",
-      "title":"title2",
-      "image":"https://picsum.photos/1200/1800?random=1",
-      "buttonText":"button2",
+      "text":"+355 69 20 20 512 \n www.siguriinteligjence.com",
+      "title":"AKADEMIA E DETEKTIVIT PRIVAT",
+      "image":"https://raw.githubusercontent.com/pbeo28/avokatiyt/main/3.png",
+      "buttonText":"Hap seksionin",
       "slidePage":{   
         "isService":true,
-        "servicePages":[2,3],
+        "servicePages":[1,2,3],
+        "title":"slide title1",
+        "body":"slideBody1",
+        "buttonShow":false,
+        "buttonText":"",
+        "buttonLink":""
+      }
+    },
+    {
+      "slideId":3,
+      "text":"+355 69 20 20 512 \n www.siguriinteligjence.com",
+      "title":"GJYKATA E ARBITRAZHIT TIRANË",
+      "image":"https://raw.githubusercontent.com/pbeo28/avokatiyt/main/4.png",
+      "buttonText":"Hap seksionin",
+      "slidePage":{   
+        "isService":true,
+        "servicePages":[1,2,3],
         "title":"slide title1",
         "body":"slideBody1",
         "buttonShow":false,
@@ -38,19 +54,19 @@
     },
     
     {
-      "slideId":3,
-      "text":"text1",
-      "title":"title1",
-      "image":"https://picsum.photos/1200/1800?random=1",
-      "buttonText":"button1",
+      "slideId":4,
+      "text":"+355 69 20 20 512 \n www.siguriinteligjence.com",
+      "title":"AVOKATI YT",
+      "image":"https://raw.githubusercontent.com/pbeo28/avokatiyt/main/4.png",
+      "buttonText":"Hap seksionin",
       "slidePage":{   
-        "isService":false,
-        "servicePages":[],
+        "isService":true,
+        "servicePages":[1,2,3],
         "title":"slide title1",
         "body":"slideBody1",
-        "buttonShow":true,
-        "buttonText":"button",
-        "buttonLink":"link"
+        "buttonShow":false,
+        "buttonText":"",
+        "buttonLink":""
       }
     }
     
