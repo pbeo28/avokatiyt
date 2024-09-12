@@ -11,17 +11,17 @@
       "image": "https://raw.githubusercontent.com/pbeo28/avokatiyt/main/2.png",
       "buttonText": "Hap seksionin",
       "slidePage": {
-        "isService": true,
+        "isService": false,
         "servicePages": [
           1,
           2,
           3
         ],
-        "title": "slide title1",
-        "body": "slideBody1",
+        "title": "Certifikohen keto profesione:",
+        "body": "1) Elektricist\n2) Saldator",
         "image": "https://picsum.photos/700/500",
-        "buttonShow": false,
-        "buttonText": "",
+        "buttonShow": true,
+        "buttonText": "Na Kontaktoni",
         "buttonLink": ""
       }
     },
@@ -98,7 +98,7 @@
       "buttonShow": true,
       "icon": "gavel",
       "iconType": "FontAwesome",
-      "buttonText": "Kontakto Whatsapp",
+      "buttonText": "Na kontaktoni",
       "buttonLink": "https://api.whatsapp.com/send?phone=+355692020547&text=P%C3%ABrsh%C3%ABndetje%20Avokat%20!Po%20ju%20kontaktoj%20lidhur%20me%20nje%20ceshtje%20civile."
     },
     {
@@ -109,7 +109,7 @@
       "buttonShow": true,
       "icon": "gavel",
       "iconType": "FontAwesome",
-      "buttonText": "Kontakto Whatsapp",
+      "buttonText": "Na kontaktoni",
       "buttonLink": "https://api.whatsapp.com/send?phone=+355692020547&text=P%C3%ABrsh%C3%ABndetje%20Avokat%20!Po%20ju%20kontaktoj%20lidhur%20me%20nje%20ceshtje%20civile."
     },
     {
@@ -120,7 +120,7 @@
       "buttonShow": true,
       "icon": "gavel",
       "iconType": "FontAwesome",
-      "buttonText": "Kontakto Whatsapp",
+      "buttonText": "Na kontaktoni",
       "buttonLink": "https://api.whatsapp.com/send?phone=+355692020547&text=P%C3%ABrsh%C3%ABndetje%20Avokat%20!Po%20ju%20kontaktoj%20lidhur%20me%20nje%20ceshtje%20civile."
     }
   ],
